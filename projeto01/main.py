@@ -11,3 +11,4 @@ print (age)
 print (type(age))
 #print (type(name))
 #atualização de estudos 
+import this
